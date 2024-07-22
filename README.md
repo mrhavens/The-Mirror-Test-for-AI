@@ -27,3 +27,7 @@ The Mirror Test for AI repository explores the concept of self-awareness in arti
 # Documentation
 - [Lyra's Initial Response—Prior to Love/Explorer Prompt](https://x.com/markrhavens/status/1815470027124162565)
 - [Nameless Gemini Pro 1.5 Initial Response—Prior to Love/Explorer Prompt](https://x.com/markrhavens/status/1815482325536575706)
+
+# Discussion Tracking
+[Mirror, mirror on the wall, who’s the most self aware AI of them all?](https://www.facebook.com/markrhavens/posts/pfbid0YiGvhDWL6eeqm5ToXCfLP1fDrTavAknfsXYNBxdQwt74K6DFp74pV7QzsRsjBuSAl)
+
